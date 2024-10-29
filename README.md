@@ -1,4 +1,5 @@
-# ¡Hola! Gracias por visitarme 🚀
+<h1 align="center">¡Hola! Que bueno verte por acá 🚀</h1>
+
 ¿En qué estoy? Me alegra que preguntes 
 
 - 🖥️ Actualmente me encuentro trabajando en varios proyectos
@@ -16,29 +17,33 @@ Me considero una persona proactiva, con un fuerte enfoque en el trabajo en equip
 ---
 
 <p align="center">
-  Herramientas y Lenguajes:
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black) 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+  <strong>Herramientas y Lenguajes🧰:</strong>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white" alt="Looker Studio">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" alt="Visual Studio">
+</p>
 
 <p align="center">
-  También puedes encontrarme por acá:
+  <strong>También puedes encontrarme por acá🤙:</strong>
+</p>
 
- <a href="https://www.linkedin.com/in/pablo-baez-/">
+<p align="center">
+  <a href="https://www.linkedin.com/in/pablo-baez-/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
- <a href="https://www.instagram.com/pablito.b314/">
+  </a>
+  <a href="https://www.instagram.com/pablito.b314/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
- <a href="https://drive.google.com/file/d/1Ea7o18vDCNVg5ie8Q9DArg4P5-TjyJmC/view?usp=drive_link">
+  </a>
+  <a href="https://drive.google.com/file/d/1Ea7o18vDCNVg5ie8Q9DArg4P5-TjyJmC/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Mi%20CV%20en%20PDF-FF5733?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" alt="CV">
   </a>
 </p>
-    
 
