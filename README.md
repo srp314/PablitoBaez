@@ -15,5 +15,17 @@ Me considero una persona proactiva, con un fuerte enfoque en el trabajo en equip
 
 ---
 
-## También podes encontrarme por acá:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)https://www.linkedin.com/in/pablo-baez-/]
+
+<p align="center">
+  También puedes encontrarme por acá:
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pablo-baez-/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  <a href="https://www.instagram.com/pablito.b314/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  <a href="https://docs.google.com/document/d/1EKO6941wqbLiCj7E_SGcy1Xft7jNIk_gwR2jydvfwl4/edit?usp=drive_link">
+    <img src="https://img.shields.io/badge/Mi%20CV%20en%20PDF-FF5733?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" alt="CV">
+  </a>
+</p>
