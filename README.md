@@ -43,7 +43,7 @@ Me considero una persona proactiva, con un fuerte enfoque en el trabajo en equip
   <a href="https://www.instagram.com/pablito.b314/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://drive.google.com/file/d/1Ea7o18vDCNVg5ie8Q9DArg4P5-TjyJmC/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1T3OJbU6MQXAqjEBW1Hsyj48FActOrZTp/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Mi%20CV%20en%20PDF-FF5733?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" alt="CV">
   </a>
 </p>
