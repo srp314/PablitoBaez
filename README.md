@@ -5,6 +5,7 @@
 - 🖥️ Actualmente me encuentro trabajando en varios proyectos
 - 📖 Completando capacitaciones sobre Deep Learning y SQL
 - 🧑‍🚀 Siempre intento aprender cosas nuevas, entusiasta de los datos
+- 📫 Contactame a pavlito.fg@mail.com 
 
 ---
 
